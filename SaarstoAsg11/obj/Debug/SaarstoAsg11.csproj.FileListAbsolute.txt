@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\SaarstoAsg11\bin\Debug\SaarstoAsg11.exe.config
+C:\Users\brian\source\repos\SaarstoAsg11\bin\Debug\SaarstoAsg11.exe
+C:\Users\brian\source\repos\SaarstoAsg11\bin\Debug\SaarstoAsg11.pdb
+C:\Users\brian\source\repos\SaarstoAsg11\obj\Debug\SaarstoAsg11.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\SaarstoAsg11\obj\Debug\SaarstoAsg11.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\SaarstoAsg11\obj\Debug\SaarstoAsg11.Form1.resources
+C:\Users\brian\source\repos\SaarstoAsg11\obj\Debug\SaarstoAsg11.Properties.Resources.resources
+C:\Users\brian\source\repos\SaarstoAsg11\obj\Debug\SaarstoAsg11.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\SaarstoAsg11\obj\Debug\SaarstoAsg11.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\SaarstoAsg11\obj\Debug\SaarstoAsg11.exe
+C:\Users\brian\source\repos\SaarstoAsg11\obj\Debug\SaarstoAsg11.pdb
